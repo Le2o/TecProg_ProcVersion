@@ -26,6 +26,7 @@ namespace Filippov
 	void Sort_List(Linked_List &obj);
 	void Swap(Linked_List &obj, Node *first, Node *second);
 	void Only_Procedural(Linked_List &obj, ofstream &fout);
+	void Multi_Method(Linked_List &obj, ofstream &fout);
 }
 
 #endif
