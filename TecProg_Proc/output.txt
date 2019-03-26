@@ -1,55 +1,26 @@
 Filled container.
-Container contains 32 elements.
-1: Error reading data! Expected other values in the string.
-2: Error reading data! Expected other values in the string.
-3: It is Procedural programming language: Abstract data types is present, Year of development = 1990, The number of references of this language on the Internet = 987
-The number of years that have passed since the year the language was created = 29
-4: It is Procedural programming language: Abstract data types is present, Year of development = 1990, The number of references of this language on the Internet = 987
-The number of years that have passed since the year the language was created = 29
-5: Error reading data! Expected other values in the string.
-6: Error reading data! Expected other values in the string.
-7: Error reading data! Expected other values in the string.
-8: Error reading data! Expected other values in the string.
-9: It is Object-oriented programming language: Inheritance is single, Year of development = 1998, The number of references of this language on the Internet = 123
-The number of years that have passed since the year the language was created = 21
-10: It is Object-oriented programming language: Inheritance is multiple, Year of development = 1998, The number of references of this language on the Internet = 123
-The number of years that have passed since the year the language was created = 21
-11: It is Object-oriented programming language: Inheritance is interface, Year of development = 1998, The number of references of this language on the Internet = 123
-The number of years that have passed since the year the language was created = 21
-12: Error reading data! Expected other values in the string.
-13: Error reading data! Expected other values in the string.
-14: Error reading data! Expected other values in the string.
-15: Error reading data! Expected other values in the string.
-16: Error reading data! Expected other values in the string.
-17: Error reading data! Expected other values in the string.
-18: Error reading data! Expected other values in the string.
-19: It is Functional programming language: Support "lazy" calculations is present, Typification is strict, Year of development = 2002, The number of references of this language on the Internet = 679
-The number of years that have passed since the year the language was created = 17
-20: Error reading data! Expected other values in the string.
-21: Error reading data! Expected other values in the string.
-22: Error reading data! Expected other values in the string.
-23: Error reading data! Expected other values in the string.
-24: It is Procedural programming language: Abstract data types is present, Year of development = 1979, The number of references of this language on the Internet = 456
+Container contains 9 elements.
+1: It is Procedural programming language: Abstract data types is present, Year of development = 1979, The number of references of this language on the Internet = 456
 The number of years that have passed since the year the language was created = 40
-25: It is Object-oriented programming language: Inheritance is interface, Year of development = 1989, The number of references of this language on the Internet = 678
+2: It is Object-oriented programming language: Inheritance is interface, Year of development = 1989, The number of references of this language on the Internet = 678
 The number of years that have passed since the year the language was created = 30
-26: It is Object-oriented programming language: Inheritance is single, Year of development = 2000, The number of references of this language on the Internet = 940
+3: It is Object-oriented programming language: Inheritance is single, Year of development = 2000, The number of references of this language on the Internet = 940
 The number of years that have passed since the year the language was created = 19
-27: It is Object-oriented programming language: Inheritance is multiple, Year of development = 2009, The number of references of this language on the Internet = 765
+4: It is Object-oriented programming language: Inheritance is multiple, Year of development = 2009, The number of references of this language on the Internet = 765
 The number of years that have passed since the year the language was created = 10
-28: It is Functional programming language: Support "lazy" calculations is present, Typification is strict, Year of development = 2001, The number of references of this language on the Internet = 87
+5: It is Functional programming language: Support "lazy" calculations is present, Typification is strict, Year of development = 2001, The number of references of this language on the Internet = 87
 The number of years that have passed since the year the language was created = 18
-29: It is Functional programming language: Support "lazy" calculations is missing, Typification is dynamic, Year of development = 2002, The number of references of this language on the Internet = 679
+6: It is Functional programming language: Support "lazy" calculations is missing, Typification is dynamic, Year of development = 2002, The number of references of this language on the Internet = 679
 The number of years that have passed since the year the language was created = 17
-30: It is Procedural programming language: Abstract data types is missing, Year of development = 1000, The number of references of this language on the Internet = 2
+7: It is Procedural programming language: Abstract data types is missing, Year of development = 1000, The number of references of this language on the Internet = 2
 The number of years that have passed since the year the language was created = 1019
-31: It is Object-oriented programming language: Inheritance is multiple, Year of development = 1001, The number of references of this language on the Internet = 3
+8: It is Object-oriented programming language: Inheritance is multiple, Year of development = 1001, The number of references of this language on the Internet = 3
 The number of years that have passed since the year the language was created = 1018
-32: It is Functional programming language: Support "lazy" calculations is missing, Typification is strict, Year of development = 1002, The number of references of this language on the Internet = 4
+9: It is Functional programming language: Support "lazy" calculations is missing, Typification is strict, Year of development = 1002, The number of references of this language on the Internet = 4
 The number of years that have passed since the year the language was created = 1017
 
 Sorted Linked List.
-Container contains 32 elements.
+Container contains 9 elements.
 1: It is Procedural programming language: Abstract data types is missing, Year of development = 1000, The number of references of this language on the Internet = 2
 The number of years that have passed since the year the language was created = 1019
 2: It is Object-oriented programming language: Inheritance is multiple, Year of development = 1001, The number of references of this language on the Internet = 3
@@ -60,43 +31,124 @@ The number of years that have passed since the year the language was created = 1
 The number of years that have passed since the year the language was created = 40
 5: It is Object-oriented programming language: Inheritance is interface, Year of development = 1989, The number of references of this language on the Internet = 678
 The number of years that have passed since the year the language was created = 30
-6: It is Procedural programming language: Abstract data types is present, Year of development = 1990, The number of references of this language on the Internet = 987
-The number of years that have passed since the year the language was created = 29
-7: It is Procedural programming language: Abstract data types is present, Year of development = 1990, The number of references of this language on the Internet = 987
-The number of years that have passed since the year the language was created = 29
-8: It is Object-oriented programming language: Inheritance is single, Year of development = 1998, The number of references of this language on the Internet = 123
-The number of years that have passed since the year the language was created = 21
-9: It is Object-oriented programming language: Inheritance is multiple, Year of development = 1998, The number of references of this language on the Internet = 123
-The number of years that have passed since the year the language was created = 21
-10: It is Object-oriented programming language: Inheritance is interface, Year of development = 1998, The number of references of this language on the Internet = 123
-The number of years that have passed since the year the language was created = 21
-11: It is Object-oriented programming language: Inheritance is single, Year of development = 2000, The number of references of this language on the Internet = 940
+6: It is Object-oriented programming language: Inheritance is single, Year of development = 2000, The number of references of this language on the Internet = 940
 The number of years that have passed since the year the language was created = 19
-12: It is Functional programming language: Support "lazy" calculations is present, Typification is strict, Year of development = 2001, The number of references of this language on the Internet = 87
+7: It is Functional programming language: Support "lazy" calculations is present, Typification is strict, Year of development = 2001, The number of references of this language on the Internet = 87
 The number of years that have passed since the year the language was created = 18
-13: It is Functional programming language: Support "lazy" calculations is present, Typification is strict, Year of development = 2002, The number of references of this language on the Internet = 679
+8: It is Functional programming language: Support "lazy" calculations is missing, Typification is dynamic, Year of development = 2002, The number of references of this language on the Internet = 679
 The number of years that have passed since the year the language was created = 17
-14: It is Functional programming language: Support "lazy" calculations is missing, Typification is dynamic, Year of development = 2002, The number of references of this language on the Internet = 679
-The number of years that have passed since the year the language was created = 17
-15: It is Object-oriented programming language: Inheritance is multiple, Year of development = 2009, The number of references of this language on the Internet = 765
+9: It is Object-oriented programming language: Inheritance is multiple, Year of development = 2009, The number of references of this language on the Internet = 765
 The number of years that have passed since the year the language was created = 10
-16: Error reading data! Expected other values in the string.
-17: Error reading data! Expected other values in the string.
-18: Error reading data! Expected other values in the string.
-19: Error reading data! Expected other values in the string.
-20: Error reading data! Expected other values in the string.
-21: Error reading data! Expected other values in the string.
-22: Error reading data! Expected other values in the string.
-23: Error reading data! Expected other values in the string.
-24: Error reading data! Expected other values in the string.
-25: Error reading data! Expected other values in the string.
-26: Error reading data! Expected other values in the string.
-27: Error reading data! Expected other values in the string.
-28: Error reading data! Expected other values in the string.
-29: Error reading data! Expected other values in the string.
-30: Error reading data! Expected other values in the string.
-31: Error reading data! Expected other values in the string.
-32: Error reading data! Expected other values in the string.
+
+Multimethod.
+Procedural and OOP.
+It is Procedural programming language: Abstract data types is missing, Year of development = 1000, The number of references of this language on the Internet = 2
+It is Object-oriented programming language: Inheritance is multiple, Year of development = 1001, The number of references of this language on the Internet = 3
+Procedural and Functional.
+It is Procedural programming language: Abstract data types is missing, Year of development = 1000, The number of references of this language on the Internet = 2
+It is Functional programming language: Support "lazy" calculations is missing, Typification is strict, Year of development = 1002, The number of references of this language on the Internet = 4
+Procedural and Procedural.
+It is Procedural programming language: Abstract data types is missing, Year of development = 1000, The number of references of this language on the Internet = 2
+It is Procedural programming language: Abstract data types is present, Year of development = 1979, The number of references of this language on the Internet = 456
+Procedural and OOP.
+It is Procedural programming language: Abstract data types is missing, Year of development = 1000, The number of references of this language on the Internet = 2
+It is Object-oriented programming language: Inheritance is interface, Year of development = 1989, The number of references of this language on the Internet = 678
+Procedural and OOP.
+It is Procedural programming language: Abstract data types is missing, Year of development = 1000, The number of references of this language on the Internet = 2
+It is Object-oriented programming language: Inheritance is single, Year of development = 2000, The number of references of this language on the Internet = 940
+Procedural and Functional.
+It is Procedural programming language: Abstract data types is missing, Year of development = 1000, The number of references of this language on the Internet = 2
+It is Functional programming language: Support "lazy" calculations is present, Typification is strict, Year of development = 2001, The number of references of this language on the Internet = 87
+Procedural and Functional.
+It is Procedural programming language: Abstract data types is missing, Year of development = 1000, The number of references of this language on the Internet = 2
+It is Functional programming language: Support "lazy" calculations is missing, Typification is dynamic, Year of development = 2002, The number of references of this language on the Internet = 679
+Procedural and OOP.
+It is Procedural programming language: Abstract data types is missing, Year of development = 1000, The number of references of this language on the Internet = 2
+It is Object-oriented programming language: Inheritance is multiple, Year of development = 2009, The number of references of this language on the Internet = 765
+OOP and Functional.
+It is Object-oriented programming language: Inheritance is multiple, Year of development = 1001, The number of references of this language on the Internet = 3
+It is Functional programming language: Support "lazy" calculations is missing, Typification is strict, Year of development = 1002, The number of references of this language on the Internet = 4
+OOP and Procedural.
+It is Object-oriented programming language: Inheritance is multiple, Year of development = 1001, The number of references of this language on the Internet = 3
+It is Procedural programming language: Abstract data types is present, Year of development = 1979, The number of references of this language on the Internet = 456
+OOP and OOP.
+It is Object-oriented programming language: Inheritance is multiple, Year of development = 1001, The number of references of this language on the Internet = 3
+It is Object-oriented programming language: Inheritance is interface, Year of development = 1989, The number of references of this language on the Internet = 678
+OOP and OOP.
+It is Object-oriented programming language: Inheritance is multiple, Year of development = 1001, The number of references of this language on the Internet = 3
+It is Object-oriented programming language: Inheritance is single, Year of development = 2000, The number of references of this language on the Internet = 940
+OOP and Functional.
+It is Object-oriented programming language: Inheritance is multiple, Year of development = 1001, The number of references of this language on the Internet = 3
+It is Functional programming language: Support "lazy" calculations is present, Typification is strict, Year of development = 2001, The number of references of this language on the Internet = 87
+OOP and Functional.
+It is Object-oriented programming language: Inheritance is multiple, Year of development = 1001, The number of references of this language on the Internet = 3
+It is Functional programming language: Support "lazy" calculations is missing, Typification is dynamic, Year of development = 2002, The number of references of this language on the Internet = 679
+OOP and OOP.
+It is Object-oriented programming language: Inheritance is multiple, Year of development = 1001, The number of references of this language on the Internet = 3
+It is Object-oriented programming language: Inheritance is multiple, Year of development = 2009, The number of references of this language on the Internet = 765
+Functional and Procedural.
+It is Functional programming language: Support "lazy" calculations is missing, Typification is strict, Year of development = 1002, The number of references of this language on the Internet = 4
+It is Procedural programming language: Abstract data types is present, Year of development = 1979, The number of references of this language on the Internet = 456
+Functional and OOP.
+It is Functional programming language: Support "lazy" calculations is missing, Typification is strict, Year of development = 1002, The number of references of this language on the Internet = 4
+It is Object-oriented programming language: Inheritance is interface, Year of development = 1989, The number of references of this language on the Internet = 678
+Functional and OOP.
+It is Functional programming language: Support "lazy" calculations is missing, Typification is strict, Year of development = 1002, The number of references of this language on the Internet = 4
+It is Object-oriented programming language: Inheritance is single, Year of development = 2000, The number of references of this language on the Internet = 940
+Functional and Functional.
+It is Functional programming language: Support "lazy" calculations is missing, Typification is strict, Year of development = 1002, The number of references of this language on the Internet = 4
+It is Functional programming language: Support "lazy" calculations is present, Typification is strict, Year of development = 2001, The number of references of this language on the Internet = 87
+Functional and Functional.
+It is Functional programming language: Support "lazy" calculations is missing, Typification is strict, Year of development = 1002, The number of references of this language on the Internet = 4
+It is Functional programming language: Support "lazy" calculations is missing, Typification is dynamic, Year of development = 2002, The number of references of this language on the Internet = 679
+Functional and OOP.
+It is Functional programming language: Support "lazy" calculations is missing, Typification is strict, Year of development = 1002, The number of references of this language on the Internet = 4
+It is Object-oriented programming language: Inheritance is multiple, Year of development = 2009, The number of references of this language on the Internet = 765
+Procedural and OOP.
+It is Procedural programming language: Abstract data types is present, Year of development = 1979, The number of references of this language on the Internet = 456
+It is Object-oriented programming language: Inheritance is interface, Year of development = 1989, The number of references of this language on the Internet = 678
+Procedural and OOP.
+It is Procedural programming language: Abstract data types is present, Year of development = 1979, The number of references of this language on the Internet = 456
+It is Object-oriented programming language: Inheritance is single, Year of development = 2000, The number of references of this language on the Internet = 940
+Procedural and Functional.
+It is Procedural programming language: Abstract data types is present, Year of development = 1979, The number of references of this language on the Internet = 456
+It is Functional programming language: Support "lazy" calculations is present, Typification is strict, Year of development = 2001, The number of references of this language on the Internet = 87
+Procedural and Functional.
+It is Procedural programming language: Abstract data types is present, Year of development = 1979, The number of references of this language on the Internet = 456
+It is Functional programming language: Support "lazy" calculations is missing, Typification is dynamic, Year of development = 2002, The number of references of this language on the Internet = 679
+Procedural and OOP.
+It is Procedural programming language: Abstract data types is present, Year of development = 1979, The number of references of this language on the Internet = 456
+It is Object-oriented programming language: Inheritance is multiple, Year of development = 2009, The number of references of this language on the Internet = 765
+OOP and OOP.
+It is Object-oriented programming language: Inheritance is interface, Year of development = 1989, The number of references of this language on the Internet = 678
+It is Object-oriented programming language: Inheritance is single, Year of development = 2000, The number of references of this language on the Internet = 940
+OOP and Functional.
+It is Object-oriented programming language: Inheritance is interface, Year of development = 1989, The number of references of this language on the Internet = 678
+It is Functional programming language: Support "lazy" calculations is present, Typification is strict, Year of development = 2001, The number of references of this language on the Internet = 87
+OOP and Functional.
+It is Object-oriented programming language: Inheritance is interface, Year of development = 1989, The number of references of this language on the Internet = 678
+It is Functional programming language: Support "lazy" calculations is missing, Typification is dynamic, Year of development = 2002, The number of references of this language on the Internet = 679
+OOP and OOP.
+It is Object-oriented programming language: Inheritance is interface, Year of development = 1989, The number of references of this language on the Internet = 678
+It is Object-oriented programming language: Inheritance is multiple, Year of development = 2009, The number of references of this language on the Internet = 765
+OOP and Functional.
+It is Object-oriented programming language: Inheritance is single, Year of development = 2000, The number of references of this language on the Internet = 940
+It is Functional programming language: Support "lazy" calculations is present, Typification is strict, Year of development = 2001, The number of references of this language on the Internet = 87
+OOP and Functional.
+It is Object-oriented programming language: Inheritance is single, Year of development = 2000, The number of references of this language on the Internet = 940
+It is Functional programming language: Support "lazy" calculations is missing, Typification is dynamic, Year of development = 2002, The number of references of this language on the Internet = 679
+OOP and OOP.
+It is Object-oriented programming language: Inheritance is single, Year of development = 2000, The number of references of this language on the Internet = 940
+It is Object-oriented programming language: Inheritance is multiple, Year of development = 2009, The number of references of this language on the Internet = 765
+Functional and Functional.
+It is Functional programming language: Support "lazy" calculations is present, Typification is strict, Year of development = 2001, The number of references of this language on the Internet = 87
+It is Functional programming language: Support "lazy" calculations is missing, Typification is dynamic, Year of development = 2002, The number of references of this language on the Internet = 679
+Functional and OOP.
+It is Functional programming language: Support "lazy" calculations is present, Typification is strict, Year of development = 2001, The number of references of this language on the Internet = 87
+It is Object-oriented programming language: Inheritance is multiple, Year of development = 2009, The number of references of this language on the Internet = 765
+Functional and OOP.
+It is Functional programming language: Support "lazy" calculations is missing, Typification is dynamic, Year of development = 2002, The number of references of this language on the Internet = 679
+It is Object-oriented programming language: Inheritance is multiple, Year of development = 2009, The number of references of this language on the Internet = 765
 
 Only Procedural languages.
 1: It is Procedural programming language: Abstract data types is missing, Year of development = 1000, The number of references of this language on the Internet = 2
@@ -104,33 +156,10 @@ Only Procedural languages.
 3: 
 4: It is Procedural programming language: Abstract data types is present, Year of development = 1979, The number of references of this language on the Internet = 456
 5: 
-6: It is Procedural programming language: Abstract data types is present, Year of development = 1990, The number of references of this language on the Internet = 987
-7: It is Procedural programming language: Abstract data types is present, Year of development = 1990, The number of references of this language on the Internet = 987
+6: 
+7: 
 8: 
 9: 
-10: 
-11: 
-12: 
-13: 
-14: 
-15: 
-16: 
-17: 
-18: 
-19: 
-20: 
-21: 
-22: 
-23: 
-24: 
-25: 
-26: 
-27: 
-28: 
-29: 
-30: 
-31: 
-32: 
 
 Empty container.
 Container contains 0 elements.

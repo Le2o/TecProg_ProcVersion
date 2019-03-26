@@ -28,6 +28,10 @@ void Filippov::Linked_List_Input(Linked_List &obj, ifstream &fin)
 		temp = new Node;
 
 		temp->language = Language_Input(fin);
+		if (temp->language == NULL)
+		{
+			continue;
+		}
 		temp->next = NULL;
 		++obj.size_list;
 
@@ -53,16 +57,9 @@ void Filippov::Linked_List_Output(Linked_List &obj, ofstream &fout)
 	for (size_t i = 0; i < obj.size_list; i++)
 	{
 		fout << i + 1 << ": ";
-		if (current->language == NULL)
-		{
-			fout << "Error reading data! Expected other values in the string." << endl;
-		}
-		else
-		{
-			Language_Output(*current->language, fout);
-			fout << "The number of years that have passed since the year the language was created = "
-				<< Past_Years(*current->language) << endl;
-		}
+		Language_Output(*current->language, fout);
+		fout << "The number of years that have passed since the year the language was created = "
+			<< Past_Years(*current->language) << endl;
 		current = current->next;
 	}
 }
@@ -154,11 +151,6 @@ void Filippov::Only_Procedural(Linked_List &obj, ofstream &fout)
 	for (size_t i = 0; i < obj.size_list; i++)
 	{
 		fout << i + 1 << ": ";
-		if (current->language == NULL)
-		{
-			fout << endl;
-			continue;
-		}
 		if (current->language->key == Language::lang::PROCEDURAL)
 		{
 			Language_Output(*current->language, fout);
@@ -170,4 +162,80 @@ void Filippov::Only_Procedural(Linked_List &obj, ofstream &fout)
 		current = current->next;
 	}
 	fout << endl;
+}
+
+void Filippov::Multi_Method(Linked_List &obj, ofstream &fout)
+{
+	Node *current_first = obj.head;
+	Node *current_second = current_first->next;
+
+	fout << endl << "Multimethod." << endl;
+	for (size_t i = 0; i < obj.size_list - 1; i++)
+	{
+		for (size_t j = i + 1; j < obj.size_list; j++)
+		{
+			switch (current_first->language->key)
+			{
+			case Language::lang::PROCEDURAL:
+				switch (current_second->language->key)
+				{
+				case Language::lang::PROCEDURAL:
+					fout << "Procedural and Procedural." << endl;
+					break;
+				case Language::lang::OOP:
+					fout << "Procedural and OOP." << endl;
+					break;
+				case Language::lang::FUNCTIONAL:
+					fout << "Procedural and Functional." << endl;
+					break;
+				default:
+					fout << "Unknown type." << endl;
+					break;
+				}
+				break;
+			case Language::lang::OOP:
+				switch (current_second->language->key)
+				{
+				case Language::lang::PROCEDURAL:
+					fout << "OOP and Procedural." << endl;
+					break;
+				case Language::lang::OOP:
+					fout << "OOP and OOP." << endl;
+					break;
+				case Language::lang::FUNCTIONAL:
+					fout << "OOP and Functional." << endl;
+					break;
+				default:
+					fout << "Unknown type." << endl;
+					break;
+				}
+				break;
+			case Language::lang::FUNCTIONAL:
+				switch (current_second->language->key)
+				{
+				case Language::lang::PROCEDURAL:
+					fout << "Functional and Procedural." << endl;
+					break;
+				case Language::lang::OOP:
+					fout << "Functional and OOP." << endl;
+					break;
+				case Language::lang::FUNCTIONAL:
+					fout << "Functional and Functional." << endl;
+					break;
+				default:
+					fout << "Unknown type." << endl;
+					break;
+				}
+				break;
+			default:
+				fout << "Unknown type." << endl;
+				break;
+			}
+			Language_Output(*current_first->language, fout);
+			Language_Output(*current_second->language, fout);
+			current_second = current_second->next;
+		}
+		current_first = current_first->next;
+		current_second = current_first->next;
+	}
 }

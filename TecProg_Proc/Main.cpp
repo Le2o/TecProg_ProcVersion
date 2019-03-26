@@ -41,6 +41,8 @@ int main(int argc, char* argv[])
 	Sort_List(list);
 	Linked_List_Output(list, fout);
 
+	Multi_Method(list, fout);
+
 	Only_Procedural(list, fout);
 
 	Clear(list);
