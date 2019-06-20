@@ -7,7 +7,6 @@ Container contains 6 elements.
 5: It is Object-oriented programming language: Inheritance is single, Year of development = 2000
 6: It is Object-oriented programming language: Inheritance is multiple, Year of development = 2009
 
-
 Multimethod.
 OOP and Procedural.
 It is Object-oriented programming language: Inheritance is single, Year of development = 1998
